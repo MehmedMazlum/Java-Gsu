@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="iki_basamakli_oyunu/cozumleme.java|iki_basamakli_oyunu/string.java|iki_basamakli_oyunu/Merhaba_2.java|iki_basamakli_oyunu/Merhaba_1.java|iki_basamakli_oyunu/ornek_applet.java|iki_basamakli_oyunu/klavye.java|iki_basamakli_oyunu/klavye_kontrol.java|iki_basamakli_oyunu/oyun.java|iki_basamakli_oyunu/dort_basamakli_oyun.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

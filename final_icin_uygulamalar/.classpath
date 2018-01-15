@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="final_icin_uygulamalar/deneme_2.java|final_icin_uygulamalar/ledli_medli.java|final_icin_uygulamalar/final_2.java|final_icin_uygulamalar/nejat_2.java|final_icin_uygulamalar/soru_engin_2.java|final_icin_uygulamalar/finall_1.java|final_icin_uygulamalar/ara_deneme.java|final_icin_uygulamalar/sifre_final_2.java|final_icin_uygulamalar/tersli_sayilar.java|final_icin_uygulamalar/nejatin_ilk_sorusu.java|final_icin_uygulamalar/jul_sezar.java|final_icin_uygulamalar/final_3.java|final_icin_uygulamalar/son_quizz.java|final_icin_uygulamalar/deneme_1.java|final_icin_uygulamalar/quiz_2_2.java|final_icin_uygulamalar/uykusuza_masallar.java|final_icin_uygulamalar/uykusuza_masallar_vol2.java|final_icin_uygulamalar/soru_1_uclerin.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="son_ekler/motorluarac.java|son_ekler/grafik1.java|son_ekler/uzman_sorusu.java|son_ekler/deneme_carsamba.java|son_ekler/asal.java|son_ekler/ruzgar_gulu.java|son_ekler/note_pad.java|son_ekler/taslak_bugun.java|son_ekler/aplet_aplet.java|son_ekler/roma.java|son_ekler/ap_2.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
